@@ -1,8 +1,9 @@
 # Chat Room Server
 Chat Room Server 
 Welcome to my simple chat room application built with Python using a client–server architecture.
-The server listens for incoming client connections and relays messages between them, allowing clients to send messages and files in real time.
-The user interface is implemented with Tkinter, providing a basic GUI for sending and displaying messages.
+- The server listens for incoming client connections and relays messages between them.
+- Allows clients to send messages and files in real time.
+- The user interface is implemented with Tkinter, providing a basic GUI for sending and displaying messages.
 
 
 
